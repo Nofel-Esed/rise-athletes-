@@ -1,0 +1,36 @@
+.contanier{
+    width: 70%;
+   padding: 0px 12px;
+   margin: 0px auto;
+   
+}
+.btn{
+    display: inline-block;
+    border-radius: 4px;
+    font-weight: 500px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+.btn-sm{
+    padding: 12px 20px;
+    font-size: 16px;
+}
+.btn-lg{
+    padding: 16px 40px;
+    font-size: 18px;
+}
+.btn-filled{
+    background-color: #fff;
+    color: #000;
+}
+.btn-outline{
+    border: 1px solid #fff;
+    color: #fff;
+    background: transparent;
+}
+.btn-filled:hover{
+    background-color: #b8e4f5;
+}
+.btn-outline:hover{
+    background-color: rgb(184,228,245,0.2 );
+}
